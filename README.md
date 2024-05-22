@@ -12,29 +12,6 @@ Witaj w **Auto Shooter Game**! Jest to dynamiczna, pełna akcji gra, w której g
 - **Dynamiczne Poziomy**: Doświadczaj proceduralnie generowanych poziomów, które oferują nowe wyzwania za każdym razem, gdy grasz.
 - **Śledzenie Wyników**: Rywalizuj z samym sobą i innymi o najwyższy wynik na tablicy wyników.
 
-## Instalacja
-
-Aby zagrać w grę lokalnie, wykonaj następujące kroki:
-
-1. **Sklonuj repozytorium**:
-    ```sh
-    git clone https://github.com/twojanazwa/autoshooter.git
-    ```
-
-2. **Przejdź do katalogu projektu**:
-    ```sh
-    cd autoshooter
-    ```
-
-3. **Zainstaluj wymagane zależności**:
-    ```sh
-    npm install
-    ```
-
-4. **Uruchom grę**:
-    ```sh
-    npm start
-    ```
 
 ## Jak Grać
 
